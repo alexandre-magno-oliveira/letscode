@@ -10,3 +10,4 @@ https://rocketseat.com.br => cursos tech de ótima qualidade.
 
 https://nbviewer.org   => para leitura de arquivos jupyter notebooks via browser.
 
+https://towardsdatascience.com/
